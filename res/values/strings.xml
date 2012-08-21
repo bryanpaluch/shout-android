@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ShoutApp</string>
+    <string name="hello_world">Shout</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="uploadbtn">Talk</string>
+    <string name="getbtn">Listen</string>
+
+</resources>
