@@ -1,4 +1,4 @@
-package com.comcastshoutapp;
+package com.bpaluch.shoutapp;
 
 import java.net.URI;
 import java.net.URISyntaxException;
