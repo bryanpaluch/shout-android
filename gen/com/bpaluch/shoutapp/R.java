@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.comcastshoutapp;
+package com.bpaluch.shoutapp;
 
 public final class R {
     public static final class attr {

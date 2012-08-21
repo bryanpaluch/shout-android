@@ -41,7 +41,7 @@ public class WebsocketService extends Service{
             Log.i(TAG, "service created starting websocket conection");
        	try {
        	// cc = new ChatClient(new URI(uriField.getText()), area, ( Draft ) draft.getSelectedItem() );
-       	cc = new WebSocketClient( new URI( "ws://10.255.132.175:8080/" ), (Draft) new Draft_17() ) {
+       	cc = new WebSocketClient( new URI( "ws://localhost:8080/" ), (Draft) new Draft_17() ) {
        		
 
        	@Override

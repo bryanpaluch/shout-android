@@ -3,7 +3,7 @@ package com.bpaluch.shoutapp;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.comcastshoutapp.R;
+
 
 import android.app.Activity;
 import android.content.ComponentName;
